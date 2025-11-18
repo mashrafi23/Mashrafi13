@@ -1,7 +1,7 @@
-# 🤖🎮🌌 Masrafi's Ultimate Anime & Bot Hub 🌌🎮🤖
+# Masrhafi's Ultimate Anime & Bot Hub 🌌🎮🤖
 `+ Booting up Anime Coder Bots...`
 
-Hi, I'm **Masrafi** 🌸  
+Hi, I'm **Mashrafi** 🌸  
 Gamer | Coder | Bot Developer | Anime Lover | Manga Explorer  
 
 ![Anime Header GIF](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif)
