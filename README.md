@@ -1,27 +1,30 @@
-# 🎮✨ Masrafi's Anime & Gaming Hub ✨🎮
-`+ Welcome Player! Entering Anime Realm...`
+# 🤖🎮🌌 Masrafi's Ultimate Anime & Bot Hub 🌌🎮🤖
+`+ Booting up Anime Coder Bots...`
 
 Hi, I'm **Masrafi** 🌸  
-Gamer | Coder | Anime Lover | Manga Explorer
+Gamer | Coder | Bot Developer | Anime Lover | Manga Explorer  
+
+![Anime Header GIF](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif)
 
 ---
 
-## 🌌 About Me
+## 🌟 Who Am I?
 
 - 🎮 Hardcore Gamer | RPGs, FPS, Adventure  
-- 💻 Full-Stack Coder | JavaScript | Python | C++  
-- 🌸 Anime & Manga Enthusiast | Bleach, Naruto, One Piece  
-- 🎨 Pixel Artist & UI Designer | Anime aesthetic vibes  
+- 💻 Full-Stack Coder | JavaScript | Python | C++ | Node.js  
+- 🤖 Bot Developer | Discord | Messenger | WhatsApp Automation  
+- 🌸 Anime & Manga Addict | Bleach, Naruto, One Piece, Demon Slayer  
+- 🎨 Pixel Artist & UI Designer | Anime Aesthetic & Gaming Vibes  
 
 ---
 
-## 🕹️ My Skills
+## 🕹️ Skills Level-Up
 
-| 🎮 Gaming | 💻 Coding | 🌸 Anime |
-|-----------|-----------|-----------|
-| RPGs, FPS, Strategy | JavaScript, Python, C++ | Bleach, Naruto, One Piece |
-| Multiplayer | HTML, CSS, Node.js | Manga & Light Novels |
-| Twitch & Steam | Git, GitHub, VSCode | Cosplay & Fanart |
+| 🎮 Gaming | 💻 Coding | 🤖 Bot Dev | 🌸 Anime |
+|-----------|-----------|-----------|-----------|
+| RPGs, FPS, Strategy | JavaScript, Python, C++ | Discord, WhatsApp, Telegram | Bleach, Naruto, One Piece |
+| Multiplayer | HTML, CSS, Node.js | Puppeteer, Selenium | Manga & Light Novels |
+| Twitch & Steam | Git, GitHub, VSCode | Bot Frameworks | Cosplay & Fanart |
 
 ---
 
@@ -32,42 +35,47 @@ Gamer | Coder | Anime Lover | Manga Explorer
 
 ---
 
-## 🎮 Anime & Game XP
+## 🎮 Anime, Gaming & Coding XP
 
 - **Coding Level:** JavaScript | Python | C++  
-- **Anime Knowledge:** Bleach | Naruto | One Piece  
+- **Anime Knowledge:** Bleach | Naruto | One Piece | Demon Slayer  
+- **Bot Development:** Discord | Messenger | Instagram Automation  
 
 ---
 
 ## 🌌 My Vibes
-`+ “Life is like a game… Play with passion, code with style, watch anime in between.”`  
 
-![Anime Typing GIF](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif)  
+`+ “Life is like a game… Play hard, code harder, bot smarter, watch anime in between.”`  
+
+![Anime Typing GIF](https://media.giphy.com/media/3o7TKP1c9zRb5gJj7K/giphy.gif)
 
 ---
 
-## 🎮 Projects
+## 🎨 Projects & Bots
 
+- 🤖 **Goat-Bot V2** – Multi-platform chatbot with anime & gaming commands  
 - 🌌 **Epic Game Project** – Multiplayer RPG with anime aesthetics  
 - 🎨 **Pixel Art Gallery** – Anime & gaming art collection  
 - 📡 **Anime API** – Fetch favorite anime & manga info  
 
 ---
 
-## 📫 Contact Me
+## 📬 Contact Me
 
 - ✉️ Email: masrafi23@example.com  
 - 🐦 Twitter: [@Masrafi](https://twitter.com/)  
 - 📸 Instagram: [@MasrafiAnime](https://instagram.com/)  
+- 🌐 GitHub: [mashrafi23](https://github.com/mashrafi23)  
 
 ---
 
-## 🌸 Anime Stickers & GIFs
+## 🌸 Stickers, GIFs & Neon Vibes
 
 ![Bleach GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
 ![Naruto GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
 ![Gaming GIF](https://media.giphy.com/media/3o7TKP1c9zRb5gJj7K/giphy.gif)  
+![Bot Dev GIF](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)  
 
-`+ Player Status: Ready`  
+`+ Player & Dev Status: Fully Ready`  
 
-🌸 **Let’s game, code, and anime together!** 🌸
+✨ **Let’s game, code, create bots, and anime together!** ✨
