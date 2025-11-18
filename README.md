@@ -1,70 +1,58 @@
-<h1 align="center">✨ 𝑴𝑨𝑺𝑯𝑹𝑨𝑭𝑰 ✨</h1>
+<!--- GitHub README for Masrafi - Bleach / Anime Aesthetic --->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cyber+Security+Learner;Bot+Developer;Automation+Expert;Always+Learning+New+Things" />
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="800"/>
+</p>
+
+<h1 align="center">🖤 Masrafi Md 🖤</h1>
+<p align="center">
+  <em>Anime Lover | Bleach Fan | Aesthetic Coder</em>
 </p>
 
 ---
 
+## 🌸 About Me
+- 🖤 Passionate about **Anime, Manga & Aesthetic Vibes**  
+- 🎨 Lover of minimalistic and stylish designs  
+- 💻 Full-stack developer in the making  
+- 🌱 Always learning & exploring new tech & anime universes  
+- 📚 Current obsessions: **Bleach**, **Chainsaw Man**, **Jujutsu Kaisen**  
+
+---
+
+## ⚡ Skills
+| Frontend | Backend | Tools |
+|----------|--------|-------|
+| HTML / CSS / JS | Node.js / Express | Git / GitHub |
+| React / Tailwind | Python / Flask | VSCode / Figma |
+| Anime-style UI | REST APIs | Terminal Magic 🪄 |
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://img.shields.io/badge/🔥_Mashrafi_🔥-Sticker_Style-blueviolet?style=for-the-badge&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mashrafi23&show_icons=true&theme=radical&hide_border=true" width="450">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashrafi23&layout=compact&theme=radical&hide_border=true" width="350">
 </p>
 
 ---
 
-# 🪐 **Sticker Style Name**
-
----
-
-# 🚀 **About Me**
-- 💻 Full-Stack JavaScript Developer  
-- 🤖 Messenger & Telegram Bot Developer  
-- 🛡 Cyber Security Enthusiast  
-- ⚙️ API, Automation, Scraping Expert  
-- 🚀 Fast, Modern, Secure Apps Lover  
-- 🔥 Always learning new technologies  
-
----
-
-# 🧰 **Languages & Tools**
+## 🌐 Connect With Me
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,js,ts,html,css,react,python,mongodb,mysql,linux,cloudflare,git,vscode" />
+  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-💖-pink?style=for-the-badge" /></a>
+  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-🐦-blue?style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-🔗-blue?style=for-the-badge" /></a>
 </p>
 
 ---
 
-# 📊 **GitHub Stats**
+## 🌌 Favorite Quotes
+> "The world isn’t perfect. But it’s there for us, trying the best it can… That’s what makes it beautiful." — *Bleach*  
+
+> "Fear is necessary. It's what keeps us alive." — *Bleach*
+
+---
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
-</p>
-
----
-
-# ⚡ **Activity Graph**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-# 📁 **Projects**
-- 🔥 **Bot Project:** Messenger & Telegram  
-- 🔥 **API Project:** Fast Secure REST API  
-- 🔥 **Security Tool:** Pentest automation  
-
----
-
-# 🌐 **Social Links**
-<p>
- <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
- <a href="#"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
- <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
----
-
-# ❤️ **Support**
-<p align="center">
-⭐ If you like my work, don’t forget to star my repos! ⭐  
+  ✨ *Stay aesthetic, stay anime, stay unstoppable!* ✨
 </p>
