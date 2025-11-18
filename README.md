@@ -30,16 +30,22 @@ Gamer | Coder | Bot Developer | Anime Lover | Manga Explorer
 
 ## ⚡ Fun Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mashrafi23&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mashrafi23&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mashrafi23&show_icons=true&theme=dracula)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mashrafi23&layout=compact&theme=dracula)
 
 ---
 
 ## 🎮 Anime, Gaming & Coding XP
 
-- **Coding Level:** JavaScript | Python | C++  
-- **Anime Knowledge:** Bleach | Naruto | One Piece | Demon Slayer  
-- **Bot Development:** Discord | Messenger | Instagram Automation  
+**Coding Level:**
+
+JavaScript ██████▒▒▒▒ 60% Python     ███████▒▒▒ 70% C++        ██████▒▒▒▒ 60% Node.js    ██████▒▒▒▒ 60%
+
+**Bot Dev Level:**
+
+Discord Bot ████████▒▒ 80% Messenger  ███████▒▒▒ 70% Instagram Bot ██████▒▒ 60%
+
+**Anime Knowledge:** Bleach | Naruto | One Piece | Demon Slayer
 
 ---
 
@@ -75,6 +81,8 @@ Gamer | Coder | Bot Developer | Anime Lover | Manga Explorer
 ![Naruto GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
 ![Gaming GIF](https://media.giphy.com/media/3o7TKP1c9zRb5gJj7K/giphy.gif)  
 ![Bot Dev GIF](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)  
+
+---
 
 `+ Player & Dev Status: Fully Ready`  
 
