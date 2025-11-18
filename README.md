@@ -1,58 +1,73 @@
-<!--- GitHub README for Masrafi - Bleach / Anime Aesthetic --->
+# 🎮✨ Masrafi's Anime & Gaming Hub ✨🎮
+`+ Welcome Player! Entering Anime Realm...`
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="800"/>
-</p>
-
-<h1 align="center">🖤 Masrafi Md 🖤</h1>
-<p align="center">
-  <em>Anime Lover | Bleach Fan | Aesthetic Coder</em>
-</p>
+Hi, I'm **Masrafi** 🌸  
+Gamer | Coder | Anime Lover | Manga Explorer
 
 ---
 
-## 🌸 About Me
-- 🖤 Passionate about **Anime, Manga & Aesthetic Vibes**  
-- 🎨 Lover of minimalistic and stylish designs  
-- 💻 Full-stack developer in the making  
-- 🌱 Always learning & exploring new tech & anime universes  
-- 📚 Current obsessions: **Bleach**, **Chainsaw Man**, **Jujutsu Kaisen**  
+## 🌌 About Me
+
+- 🎮 Hardcore Gamer | RPGs, FPS, Adventure  
+- 💻 Full-Stack Coder | JavaScript | Python | C++  
+- 🌸 Anime & Manga Enthusiast | Bleach, Naruto, One Piece  
+- 🎨 Pixel Artist & UI Designer | Anime aesthetic vibes  
 
 ---
 
-## ⚡ Skills
-| Frontend | Backend | Tools |
-|----------|--------|-------|
-| HTML / CSS / JS | Node.js / Express | Git / GitHub |
-| React / Tailwind | Python / Flask | VSCode / Figma |
-| Anime-style UI | REST APIs | Terminal Magic 🪄 |
+## 🕹️ My Skills
+
+| 🎮 Gaming | 💻 Coding | 🌸 Anime |
+|-----------|-----------|-----------|
+| RPGs, FPS, Strategy | JavaScript, Python, C++ | Bleach, Naruto, One Piece |
+| Multiplayer | HTML, CSS, Node.js | Manga & Light Novels |
+| Twitch & Steam | Git, GitHub, VSCode | Cosplay & Fanart |
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mashrafi23&show_icons=true&theme=radical&hide_border=true" width="450">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mashrafi23&layout=compact&theme=radical&hide_border=true" width="350">
-</p>
+## ⚡ Fun Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mashrafi23&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mashrafi23&layout=compact&theme=radical)
 
 ---
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-💖-pink?style=for-the-badge" /></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-🐦-blue?style=for-the-badge" /></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-🔗-blue?style=for-the-badge" /></a>
-</p>
+## 🎮 Anime & Game XP
+
+- **Coding Level:** JavaScript | Python | C++  
+- **Anime Knowledge:** Bleach | Naruto | One Piece  
 
 ---
 
-## 🌌 Favorite Quotes
-> "The world isn’t perfect. But it’s there for us, trying the best it can… That’s what makes it beautiful." — *Bleach*  
+## 🌌 My Vibes
+`+ “Life is like a game… Play with passion, code with style, watch anime in between.”`  
 
-> "Fear is necessary. It's what keeps us alive." — *Bleach*
+![Anime Typing GIF](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif)  
 
 ---
 
-<p align="center">
-  ✨ *Stay aesthetic, stay anime, stay unstoppable!* ✨
-</p>
+## 🎮 Projects
+
+- 🌌 **Epic Game Project** – Multiplayer RPG with anime aesthetics  
+- 🎨 **Pixel Art Gallery** – Anime & gaming art collection  
+- 📡 **Anime API** – Fetch favorite anime & manga info  
+
+---
+
+## 📫 Contact Me
+
+- ✉️ Email: masrafi23@example.com  
+- 🐦 Twitter: [@Masrafi](https://twitter.com/)  
+- 📸 Instagram: [@MasrafiAnime](https://instagram.com/)  
+
+---
+
+## 🌸 Anime Stickers & GIFs
+
+![Bleach GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
+![Naruto GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)  
+![Gaming GIF](https://media.giphy.com/media/3o7TKP1c9zRb5gJj7K/giphy.gif)  
+
+`+ Player Status: Ready`  
+
+🌸 **Let’s game, code, and anime together!** 🌸
